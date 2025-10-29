@@ -1,0 +1,13 @@
+1) команды для регистрации ваших данных
+git config --global user.name "your_username"
+git config --global user.email "your_gmail.com"
+
+
+
+2) Команды только для одного проекта
+
+git  init | инициализация
+git remote add origin link_to_repository | Добавления репозитория
+git status | статус репозитори
+git add | Добавления всех файлов в буфер обмена
+git commit -m "message" | сохранение всего из буфера обмена

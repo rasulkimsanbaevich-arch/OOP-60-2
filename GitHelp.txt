@@ -9,5 +9,6 @@ git config --global user.email "your_gmail.com"
 git  init | инициализация
 git remote add origin link_to_repository | Добавления репозитория
 git status | статус репозитори
-git add | Добавления всех файлов в буфер обмена
+
+git add . | Добавления всех файлов в буфер обмена
 git commit -m "message" | сохранение всего из буфера обмена

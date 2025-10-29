@@ -1,7 +1,7 @@
 #class
 class Herro:
     # конструктор класса
-    def __init__(self, nick_name, lvl, hp):
+    def __init__(self, nick_name,  lvl, hp):
         # Атрибуты класса
         self.nick_name = nick_name
         self.lvl = lvl

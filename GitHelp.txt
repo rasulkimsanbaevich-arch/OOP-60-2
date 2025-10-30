@@ -6,11 +6,13 @@ git config --global user.email "your_gmail.com"
 
 2) Команды только для одного проекта
 
-git  init | инициализация
-git remote add origin link_to_repository | Добавления репозитория
-git status | статус репозитори
+3) git  init | инициализация
+4) git remote add origin link_to_repository | Добавления репозитория
 
-git add . | Добавления всех файлов в буфер обмена
-git commit -m "message" | сохранение всего из буфера обмена
+5) git status | статус репозитори
 
+6) git add . | Добавления всех файлов в буфер обмена
+7) git commit -m "message" | сохранение всего из буфера обмена
+
+8) git push origin master | Отправка изменений
 

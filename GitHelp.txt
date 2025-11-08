@@ -17,5 +17,21 @@ git config --global user.email "your_gmail.com"
 10) git branch new_branch | создать новую ветку
 11) git checkout new_branch | Переключится на новую ветку
     git switch new_branch
+12) git restore | вернуть файл в исхлдную состаяние
+13) git reset    | Вернуть файлы в исходную состаяние после git add
+14) git reset --mixed HEAD-1 | удалить последний commit
 
+
+
+dev
+stage
+production
+
+
+
+feat/
+fix/
+update/
+hotfix/
+delete/
 

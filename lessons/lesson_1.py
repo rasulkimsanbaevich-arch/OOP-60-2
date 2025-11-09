@@ -13,4 +13,4 @@ class Herro:
 kirito = Herro("Kirito", 100, 1000)
 asuna = Herro("Asuna", 100, 1000)
 print(kirito.action())
-print(asuna.action())
+#print(asuna.action())

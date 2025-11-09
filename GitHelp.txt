@@ -21,7 +21,7 @@ git config --global user.email "your_gmail.com"
 13) git reset    | Вернуть файлы в исходную состаяние после git add
 14) git reset --mixed HEAD-1 | удалить последний commit
 
-fke
+fkefjkfj
 
 dev
 stage

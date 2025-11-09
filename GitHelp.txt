@@ -2,8 +2,6 @@
 git config --global user.name "your_username"
 git config --global user.email "your_gmail.com"
 
-
-
 2) Команды только для одного проекта
 
 3) git  init | инициализация
@@ -15,4 +13,25 @@ git config --global user.email "your_gmail.com"
 7) git commit -m "message" | сохранение всего из буфера обмена
 
 8) git push origin master | Отправка изменений
+9) git branch | Просмотреть все ветки
+10) git branch new_branch | создать новую ветку
+11) git checkout new_branch | Переключится на новую ветку
+    git switch new_branch
+12) git restore | вернуть файл в исхлдную состаяние
+13) git reset    | Вернуть файлы в исходную состаяние после git add
+14) git reset --mixed HEAD-1 | удалить последний commit
+
+fkefjkfj
+
+dev
+stage
+production
+
+
+
+feat/
+fix/
+update/
+hotfix/
+delete/
 
